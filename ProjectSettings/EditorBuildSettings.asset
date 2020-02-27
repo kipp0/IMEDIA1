@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tunnel/Scenes/tunnel LVL.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/DarkForest/Scenes/MainMenu.unity
+    guid: 864da78389b75124d9852eaaaff51a62
+  - enabled: 1
+    path: Assets/DarkForest/Scenes/Forest LVL.unity
+    guid: a97aef7be99924727b2c98efb5d0c391
   m_configObjects: {}
